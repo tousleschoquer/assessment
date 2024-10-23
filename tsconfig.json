@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "target": "es2015",
+    "downlevelIteration": true,
+    "strict": true,
+    "jsx": "react",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "skipLibCheck": true
+  }
+}

@@ -29,6 +29,34 @@
       ]
     },
     {
+      "id": "147b8632-ab20-479c-a67d-3cd9f50231e8",
+      "title": "My 2025 goals",
+      "publishDate": "2024-10-18T15:59:05Z",
+      "author": {
+        "name": "Jalil Chaibderraine",
+        "avatar": "https://robohash.org/quamnonet.jpg?size=50x50&set=set1"
+      },
+      "summary": "I would love to be part of the great company Lizard Global!",
+      "categories": [
+        {
+          "id": "5ee1187a-26f3-4819-b710-ccd99efc94df",
+          "name": "Surveys and Forms"
+        },
+        {
+          "id": "dc431d44-e26e-4bec-a2bd-a8ba1cd8b95d",
+          "name": "Digital Marketing"
+        },
+        {
+          "id": "0756ceeb-48d1-495a-9e47-8bdbc4a231d4",
+          "name": "Platform News and Updates"
+        },
+        {
+          "id": "b4f70697-928c-4838-8f34-3bf0fc101792",
+          "name": "Tips and Best Practise"
+        }
+      ]
+    },
+    {
       "id": "9dfb1c88-e2ef-4bb4-bf3e-78f7db0440b0",
       "title": "justo sit amet sapien dignissim vestibulum",
       "publishDate": "2020-07-29T04:07:33Z",
